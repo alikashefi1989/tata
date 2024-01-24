@@ -1,0 +1,7 @@
+enum REDUX_ACTION {
+    SET_USER = 'SET_USER',
+    EMPTY_USER = 'EMPTY_USER',
+    SET_AUTH = 'SET_AUTH',
+}
+
+export default REDUX_ACTION
